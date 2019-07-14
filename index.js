@@ -28,6 +28,15 @@ function iLoveTheBeatles(number) {
     return love;
 }
 
-function johnLennonFacts() {
-  var facts
+
+
+
+function iLoveTheBeatles(number) {
+  var empty = [];
+  do {
+    empty.push("I love the beatles!")
+  }
+  while (number < )
+  
+  
 }
